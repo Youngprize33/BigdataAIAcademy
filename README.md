@@ -30,8 +30,8 @@
   [1](https://github.com/Youngprize33/BigdataAIAcademy/blob/main/lec11_1_svm.R), [2](https://github.com/Youngprize33/BigdataAIAcademy/blob/main/lec11_2_svm.R), [3](https://github.com/Youngprize33/BigdataAIAcademy/blob/main/lec11_3_svm.R)
   
 * DT & RF   
-  의사결정나무 [1](https://github.com/Youngprize33/BigdataAIAcademy/blob/main/lec12_1_tree.R), [2](https://github.com/Youngprize33/BigdataAIAcademy/blob/main/lec12_2_tree.R)
-  [랜덤포레스트] (https://github.com/Youngprize33/BigdataAIAcademy/blob/main/lec12_3_rf.R)
+  의사결정나무 [1](https://github.com/Youngprize33/BigdataAIAcademy/blob/main/lec12_1_tree.R), [2](https://github.com/Youngprize33/BigdataAIAcademy/blob/main/lec12_2_tree.R)  
+  [랜덤포레스트](https://github.com/Youngprize33/BigdataAIAcademy/blob/main/lec12_3_rf.R)
   
 * 군집분석  
   [유사성척도](https://github.com/Youngprize33/BigdataAIAcademy/blob/main/lec13_1_clus.R)  
