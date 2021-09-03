@@ -1,7 +1,7 @@
 ## POSTEC 청년 BigData&AI Academy 온라인 과정 공부 정리
 <img width="800" alt="background" src="https://i.ytimg.com/vi/0ZMRdCErzHg/maxresdefault.jpg">
 
-## 강의목록
+## Index
 
 ### 빅데이터 분석과 R프로그래밍 I, II
 -----------------------------------
